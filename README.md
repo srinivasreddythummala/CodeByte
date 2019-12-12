@@ -1,2 +1,2 @@
 # CodeByte
-Programming challenges
+Python Programming challenges
